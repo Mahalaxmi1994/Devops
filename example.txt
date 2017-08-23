@@ -17,8 +17,8 @@ changed
 
 xyz
 dsdyewff
-<<<<<<< Updated upstream
+
 sndtwefweh
-=======
+
 sdwefberh
->>>>>>> Stashed changes
+
