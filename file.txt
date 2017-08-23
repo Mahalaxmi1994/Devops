@@ -1,3 +1,7 @@
 this is a new fie created at 9 AM
+<<<<<<< HEAD
 
 modifying everything in this file
+=======
+new branch is created
+>>>>>>> 054d06ad57de6cf3fb7f218f120d3a71c168a5af
