@@ -7,3 +7,5 @@ some changes made in local one
 changes made through github
 
 done with everything
+
+12 commits are commited in this file
